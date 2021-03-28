@@ -23,7 +23,8 @@ RUN pip3 --no-cache-dir install \
   pytest-rerunfailures \
   pytest-xdist \
   pyyaml \
-  selenium
+  selenium \
+  dlib
 
 # Get firefox 70.0.1 and geckodriver
 RUN wget -qO- https://ftp.mozilla.org/pub/firefox/releases/70.0.1/linux-x86_64/en-US/firefox-70.0.1.tar.bz2 | tar jx \
