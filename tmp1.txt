@@ -1,9 +1,0 @@
-root@2ad3192179f1:/src# ^C
-root@2ad3192179f1:/src# ^C
-root@2ad3192179f1:/src# ^C
-root@2ad3192179f1:/src# eix^C
-root@2ad3192179f1:/src# ^C
-root@2ad3192179f1:/src# ^C
-root@2ad3192179f1:/src# ^C
-root@2ad3192179f1:/src# exit
-exit
